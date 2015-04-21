@@ -3,8 +3,8 @@ Contributors: hotplugin
 Donate link: http://faisal.com.np/
 Tags: wepay,checkout
 Requires at least: 3.5
-Tested up to: 3.9
-Stable tag: 3.9
+Tested up to: 4.1.2
+Stable tag: 4.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
